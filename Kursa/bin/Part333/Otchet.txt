@@ -1,0 +1,18 @@
+Shop: My shop
+VideoTechnik v nalichii
+---Name TV     Proizvoditel: Samsung
+    Price: 16710     Quantity: 40
+---Name Theather     Proizvoditel: BBK
+    Price: 3880     Quantity: 30
+---Name DVD-player     Proizvoditel: Panasonic
+    Price: 4790     Quantity: 20
+---Name Video-camera     Proizvoditel: Canon
+    Price: 6740     Quantity: 10
+---Name Plazm Panel     Proizvoditel: Hitachi
+    Price: 45900     Quantity: 1
+
+Prodannaya VideoTechnik
+2.06 12:59 AM - Theather   BBK   3880   4
+2.06 13:7 AM - DVD-player   Panasonic   4790   2
+2.06 13:7 AM - Video-camera   Canon   6740   5
+2.06 13:8 AM - Plazm Panel   Hitachi   45900   1
