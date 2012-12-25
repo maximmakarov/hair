@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="pacmanClassDiagram.ucd - pacman" viewFrozen="true" id="{UMLID=_MbutsBOwEeCyzY1vR6uH_A,JavaID=pacman}" metadata="uml2-1.0" initialized="true" scrolledX="-32" tag="10" key="3230303730363239204B757273614B7375">
+  <diagramOptions xsi:type="options:ClassDiagramOptions" saveOption="neverSave" properties="wireOptions=3" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="14,14" gridOrigin="210,42" rulerUnit="cm" gridShow="true">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" attributeSorter="Natural" methodSorter="Natural" shortPackageNameFormat="true" showClassStereotype="true" showPackageStereotype="true" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="2" showInterfaceStereotype="true" showAssociationMember="false" showMethods="true" showAttributes="true" showLiterlas="true" showInnerEntity="true" showAttributeParameterType="true" showAttributeDefaultValue="true"/>
+</editmodel:ClassDiagramEditModel>
